@@ -18,7 +18,8 @@
   
 ## **APPLICATION LINKS** 
 > [GitHub Repository](https://github.com/jeremyrice98/social-network-api)   
-> [Video Demonstration]()  
+> [Video Demo Part 1](https://drive.google.com/file/d/1KggJ2ygXGxMWsR2zKeA8jIUGw6esDV5m/view)  
+> [Video Demo Part 2](https://drive.google.com/file/d/10A6NEGanpdrX7eQG_Ep9ThiR1xkyLwFQ/view)  
  
   
 ## **INSTALLATION**   
